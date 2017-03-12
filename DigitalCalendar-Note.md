@@ -1,5 +1,7 @@
 #DigitalCalendar 项目总结
 ----
+[TOC]
+
 ###项目难点：
 1. 每次点开都显示今日日期页面
 	> finish所有Acitivity，结束进程？
